@@ -3,4 +3,4 @@ project(cccgrader)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(cccgrader 2022/j5.cpp)
+add_executable(cccgrader 2022/j3.cpp)
