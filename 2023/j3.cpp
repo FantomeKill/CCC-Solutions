@@ -53,5 +53,6 @@ int main() {
         cout << 5;
         cnt++;
     }
+    cout << endl;
     return 0;
 }

@@ -19,6 +19,6 @@ int main() {
         if (tmp == "Thai") a += 75000;
         if (tmp == "Habanero") a += 125000;
     }
-    cout << a;
+    cout << a << endl;
     return 0;
 }
