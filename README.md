@@ -8,3 +8,4 @@ Mostly made in C++
 - CCC '2021 - Junior' 75/75
 - CCC '2020 - Junior' 75/75
 - CCC '2019 - Junior' 75/75
+- CCC '2010 - Junior' 75/75
