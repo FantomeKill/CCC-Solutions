@@ -4,8 +4,8 @@ Mostly made in C++
 
 ## Problem Marks :
 
-| Type  | Years | Level      | Marks |
-| :---- |:------| :--------- |:------|
+| Type  | Years |   Level    | Marks |
+|:-----:|:-----:|:----------:|:-----:|
 | `CCC` | 2023  | **Junior** | 64/75 |
 | `CCC` | 2022  | **Junior** | 75/75 |
 | `CCC` | 2021  | **Junior** | 75/75 |
