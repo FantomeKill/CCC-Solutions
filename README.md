@@ -88,6 +88,6 @@ Mostly made in C++
 | `CCC` |   2020    |  **Junior**  |   75/75   |   to-do    |
 | `CCC` |   2019    |  **Junior**  |   75/75   |   to-do    |
 | `CCC` |   2018    |  **Junior**  |   75/75   |   75/75    |
-| `CCC` |   2017    |  **Junior**  |   75/60   |   to-do    |
+| `CCC` |   2017    |  **Junior**  |   60/75    |   to-do    |
 | `CCC` |   2010    |  **Junior**  |   75/75   |   to-do    |
 
